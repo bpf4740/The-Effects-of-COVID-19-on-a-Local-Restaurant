@@ -1,5 +1,5 @@
 # The-Effects-of-COVID-19-on-a-Local-Restaurant
-Time Series Analysis and Forecasting
+
 This paper shows the effect of the United States Government declaring the COVID19 pandemic a national emergency. This study was performed on one local restaurant
 in upstate New York. On March 11, 2020 the World Health Organization classified
 the COVID-19 outbreak a pandemic. Two days later, March 13, 2020, the United
